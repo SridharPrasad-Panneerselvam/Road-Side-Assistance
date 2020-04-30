@@ -1,0 +1,5 @@
+
+.DS_Store
+node_modules/.bin/mime
+node_modules
+node_modules
